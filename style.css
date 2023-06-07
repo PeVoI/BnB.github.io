@@ -640,7 +640,7 @@ footer {
     }
 
     .container {
-        width: 768px;
+        max-width: 768px;
     }
 
     .logo {
@@ -895,7 +895,7 @@ footer {
     }
 
     .container {
-        width: 425px;
+        max-width: 425px;
     }
 
     .logo {
@@ -1200,7 +1200,7 @@ footer {
     }
 
     .container {
-        width: 320px;
+        max-width: 315px;
     }
 
     .logo {
